@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gift-card-100",
+    "title": "VitaVera Gift Card",
+    "price_cents": 10000,
+    "stripe_price_id": "price_giftcard_100",
+    "description": "Share the VitaVera experience with a digital gift card redeemable for any service.",
+    "digitalDownloadUrl": "https://example.com/gift-card.pdf"
+  },
+  {
+    "id": "supplement-immune",
+    "title": "Immune Shield Supplement Pack",
+    "price_cents": 5900,
+    "stripe_price_id": "price_immune_pack",
+    "description": "30-day supply of Vitamin C, D3, and Zinc curated by our clinicians.",
+    "digitalDownloadUrl": null
+  },
+  {
+    "id": "ebook-wellness",
+    "title": "Hydration Habits Guide (eBook)",
+    "price_cents": 1900,
+    "stripe_price_id": "price_wellness_ebook",
+    "description": "A 35-page digital guide to daily hydration, nutrition, and recovery routines.",
+    "digitalDownloadUrl": "https://example.com/hydration-guide.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Do I need a consultation before my first IV?",
+    "answer": "Yes. Every new client completes a health intake and brief nurse consultation to make sure the treatment is safe and tailored to you."
+  },
+  {
+    "question": "Can you come to my home or office?",
+    "answer": "Absolutely. Our mobile nurses travel throughout the Phoenix metro area for a concierge fee."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit cards, HSA/FSA, and tap-to-pay. Deposits are handled securely through Stripe."
+  },
+  {
+    "question": "How often can I book treatments?",
+    "answer": "Most clients schedule every 2-4 weeks depending on their wellness goals. Our clinicians will help design a cadence for you."
+  }
+]

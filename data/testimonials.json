@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tm-1",
+    "name": "Carla M.",
+    "text": "I booked the Immune Boost before a big conference and felt amazing the entire week.",
+    "rating": 5,
+    "photo": null
+  },
+  {
+    "id": "tm-2",
+    "name": "Jordan P.",
+    "text": "The nurses were kind and professional. The mobile IV saved our bachelorette weekend!",
+    "rating": 5,
+    "photo": null
+  },
+  {
+    "id": "tm-3",
+    "name": "Ravi S.",
+    "text": "Performance Plus has become my go-to after long training blocks. Recovery feels twice as fast.",
+    "rating": 5,
+    "photo": null
+  }
+]

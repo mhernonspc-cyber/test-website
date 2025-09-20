@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title">
+  <title>Wellness clinic exterior illustration</title>
+  <rect width="1200" height="600" fill="#f7fbff" />
+  <rect x="200" y="180" width="800" height="320" rx="32" fill="#1b9ff2" opacity="0.12" />
+  <rect x="240" y="220" width="720" height="240" rx="24" fill="#fff" stroke="#1b9ff2" stroke-width="8" opacity="0.8" />
+  <rect x="280" y="260" width="160" height="180" rx="16" fill="#e6f5ff" />
+  <rect x="480" y="260" width="160" height="180" rx="16" fill="#e6f5ff" />
+  <rect x="680" y="260" width="160" height="180" rx="16" fill="#e6f5ff" />
+  <path d="M220 220 L600 120 L980 220" fill="none" stroke="#0d63a3" stroke-width="12" stroke-linejoin="round" />
+  <text x="600" y="500" font-size="42" text-anchor="middle" font-family="'Poppins', sans-serif" fill="#0f3f63">Visit VitaVera Wellness</text>
+</svg>

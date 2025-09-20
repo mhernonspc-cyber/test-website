@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: theme('fontFamily.body');
+  background-color: #ffffff;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 3px solid theme('colors.brand.500');
+  outline-offset: 2px;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-full bg-brand-600 px-6 py-3 text-base font-semibold text-white shadow-glow transition hover:bg-brand-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center rounded-full border border-brand-500 px-6 py-3 text-base font-semibold text-brand-700 transition hover:bg-brand-50;
+}
+
+.section-title {
+  @apply text-3xl font-semibold text-slate-900 md:text-4xl;
+}
+
+.text-body {
+  @apply text-base leading-relaxed text-slate-700;
+}
