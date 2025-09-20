@@ -1,0 +1,98 @@
+[
+  {
+    "id": "svc-basics",
+    "slug": "the-basics",
+    "title": "The Basics",
+    "shortDescription": "Essential hydration for busy professionals who need a same-day boost.",
+    "longDescription": "Our foundational IV drip replenishes fluids and electrolytes to help you bounce back fast from long work weeks, travel, or a fun night out.",
+    "price": 149,
+    "duration": "45 minutes",
+    "ingredients": ["Electrolyte solution", "Vitamin C", "B-complex"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Perfect when you're feeling run-down and need a reliable reset."
+  },
+  {
+    "id": "svc-immune",
+    "slug": "immune-boost",
+    "title": "Immune Boost",
+    "shortDescription": "Fortify your immune system before travel or during cold & flu season.",
+    "longDescription": "Packed with antioxidants, zinc, and hydrating fluids to support your body's natural defense system.",
+    "price": 189,
+    "duration": "50 minutes",
+    "ingredients": ["Vitamin C", "Zinc", "Glutathione push"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Ideal for teachers, travelers, and parents exposed to seasonal bugs."
+  },
+  {
+    "id": "svc-performance",
+    "slug": "performance-plus",
+    "title": "Performance Plus",
+    "shortDescription": "Athlete-focused drip to speed up recovery after intense training.",
+    "longDescription": "High-dose amino acids and electrolytes to rebuild muscles and fight oxidative stress.",
+    "price": 209,
+    "duration": "55 minutes",
+    "ingredients": ["BCAAs", "Magnesium", "Vitamin B12"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Designed for marathoners, crossfitters, and weekend warriors."
+  },
+  {
+    "id": "svc-glow",
+    "slug": "inner-glow",
+    "title": "Inner Glow",
+    "shortDescription": "Beauty-focused infusion for luminous skin and hair.",
+    "longDescription": "Collagen-building nutrients and hydration to brighten skin tone and support hair health from the inside out.",
+    "price": 229,
+    "duration": "60 minutes",
+    "ingredients": ["Biotin", "Vitamin C", "B-complex", "Glutathione"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Spa-lovers preparing for events, photo shoots, or self-care weekends."
+  },
+  {
+    "id": "svc-revive",
+    "slug": "revive-recovery",
+    "title": "Revive Recovery",
+    "shortDescription": "Hangover rescue with nausea and headache relief meds included.",
+    "longDescription": "Rapid hydration, anti-nausea, and anti-inflammatory support to get you back on your feet after late nights.",
+    "price": 239,
+    "duration": "60 minutes",
+    "ingredients": ["Toradol", "Zofran", "B-complex", "Vitamin C"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Perfect for bachelor/bachelorette weekends and celebratory events."
+  },
+  {
+    "id": "svc-slim",
+    "slug": "metabolic-reset",
+    "title": "Metabolic Reset",
+    "shortDescription": "Support metabolism and balanced energy with targeted nutrients.",
+    "longDescription": "Combines MIC, L-carnitine, and B vitamins to encourage fat metabolism and steady energy release.",
+    "price": 259,
+    "duration": "60 minutes",
+    "ingredients": ["MIC", "L-carnitine", "B12", "Chromium"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Great for professionals on wellness journeys seeking sustainable energy."
+  },
+  {
+    "id": "svc-meyers",
+    "slug": "meyers-renewal",
+    "title": "Meyer's Renewal",
+    "shortDescription": "Our elevated take on the classic Myers Cocktail with extra vitamin C.",
+    "longDescription": "A balanced blend of vitamins and minerals to restore nutrients and alleviate chronic fatigue symptoms.",
+    "price": 199,
+    "duration": "45 minutes",
+    "ingredients": ["Vitamin C", "Magnesium", "Calcium", "B12"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Helpful for those with migraines, fibromyalgia, or general fatigue."
+  },
+  {
+    "id": "svc-mobile",
+    "slug": "mobile-iv-party",
+    "title": "Mobile IV Party",
+    "shortDescription": "On-site IV services for groups, retreats, and corporate wellness days.",
+    "longDescription": "Our team brings the VitaVera experience to your location with curated drips and a dedicated nurse.",
+    "price": 499,
+    "duration": "90 minutes",
+    "ingredients": ["Customized selection", "Group hydration kits"],
+    "heroImage": "/images/hero-placeholder.svg",
+    "whoFor": "Ideal for bridal parties, executive retreats, and wellness activations."
+  }
+]
